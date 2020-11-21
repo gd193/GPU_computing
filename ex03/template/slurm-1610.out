@@ -1,0 +1,1 @@
+/var/spool_slurm/slurmd/job01610/slurm_script: line 4: 108731 Segmentation fault      bin/devtodev

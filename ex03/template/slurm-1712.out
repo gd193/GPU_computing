@@ -1,0 +1,1886 @@
+***
+*** Starting ...
+***
+*** Allocating memory of following size=1024
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       1024B, H2D:   0.04 GB/s, D2H:   0.05 GB/s, D2D:   0.05 GB/s
+Coalesced copy of global memory, size=      1024, gDim=    1, bDim=  128, bw=  0.18GB/s
+*** Allocating memory of following size=1024
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       1024B, H2D:   0.12 GB/s, D2H:   0.07 GB/s, D2D:   0.09 GB/s
+Coalesced copy of global memory, size=      1024, gDim=    2, bDim=  128, bw=  0.22GB/s
+*** Allocating memory of following size=1024
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       1024B, H2D:   0.24 GB/s, D2H:   0.10 GB/s, D2D:   0.20 GB/s
+Coalesced copy of global memory, size=      1024, gDim=    4, bDim=  128, bw=  0.33GB/s
+*** Allocating memory of following size=1024
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       1024B, H2D:   0.25 GB/s, D2H:   0.11 GB/s, D2D:   0.20 GB/s
+Coalesced copy of global memory, size=      1024, gDim=    8, bDim=  128, bw=  0.33GB/s
+*** Allocating memory of following size=1024
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       1024B, H2D:   0.27 GB/s, D2H:   0.10 GB/s, D2D:   0.21 GB/s
+Coalesced copy of global memory, size=      1024, gDim=   16, bDim=  128, bw=  0.33GB/s
+*** Allocating memory of following size=1024
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       1024B, H2D:   0.25 GB/s, D2H:   0.10 GB/s, D2D:   0.21 GB/s
+Coalesced copy of global memory, size=      1024, gDim=   32, bDim=  128, bw=  0.33GB/s
+*** Allocating memory of following size=1024
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       1024B, H2D:   0.26 GB/s, D2H:   0.10 GB/s, D2D:   0.21 GB/s
+Coalesced copy of global memory, size=      1024, gDim=   64, bDim=  128, bw=  0.33GB/s
+*** Allocating memory of following size=1024
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       1024B, H2D:   0.27 GB/s, D2H:   0.10 GB/s, D2D:   0.21 GB/s
+Coalesced copy of global memory, size=      1024, gDim=  128, bDim=  128, bw=  0.33GB/s
+*** Allocating memory of following size=1024
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       1024B, H2D:   0.26 GB/s, D2H:   0.11 GB/s, D2D:   0.21 GB/s
+Coalesced copy of global memory, size=      1024, gDim=  256, bDim=  128, bw=  0.33GB/s
+*** Allocating memory of following size=1024
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       1024B, H2D:   0.27 GB/s, D2H:   0.11 GB/s, D2D:   0.22 GB/s
+Coalesced copy of global memory, size=      1024, gDim=  512, bDim=  128, bw=  0.33GB/s
+*** Allocating memory of following size=1024
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       1024B, H2D:   0.25 GB/s, D2H:   0.11 GB/s, D2D:   0.21 GB/s
+Coalesced copy of global memory, size=      1024, gDim= 1024, bDim=  128, bw=  0.34GB/s
+*** Allocating memory of following size=2048
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       2048B, H2D:   0.49 GB/s, D2H:   0.21 GB/s, D2D:   0.39 GB/s
+Coalesced copy of global memory, size=      2048, gDim=    1, bDim=  128, bw=  0.67GB/s
+*** Allocating memory of following size=2048
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       2048B, H2D:   0.52 GB/s, D2H:   0.21 GB/s, D2D:   0.41 GB/s
+Coalesced copy of global memory, size=      2048, gDim=    2, bDim=  128, bw=  0.66GB/s
+*** Allocating memory of following size=2048
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       2048B, H2D:   0.52 GB/s, D2H:   0.21 GB/s, D2D:   0.43 GB/s
+Coalesced copy of global memory, size=      2048, gDim=    4, bDim=  128, bw=  0.66GB/s
+*** Allocating memory of following size=2048
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       2048B, H2D:   0.51 GB/s, D2H:   0.21 GB/s, D2D:   0.42 GB/s
+Coalesced copy of global memory, size=      2048, gDim=    8, bDim=  128, bw=  0.66GB/s
+*** Allocating memory of following size=2048
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       2048B, H2D:   0.50 GB/s, D2H:   0.21 GB/s, D2D:   0.42 GB/s
+Coalesced copy of global memory, size=      2048, gDim=   16, bDim=  128, bw=  0.66GB/s
+*** Allocating memory of following size=2048
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       2048B, H2D:   0.41 GB/s, D2H:   0.20 GB/s, D2D:   0.36 GB/s
+Coalesced copy of global memory, size=      2048, gDim=   32, bDim=  128, bw=  0.66GB/s
+*** Allocating memory of following size=2048
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       2048B, H2D:   0.50 GB/s, D2H:   0.21 GB/s, D2D:   0.41 GB/s
+Coalesced copy of global memory, size=      2048, gDim=   64, bDim=  128, bw=  0.66GB/s
+*** Allocating memory of following size=2048
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       2048B, H2D:   0.53 GB/s, D2H:   0.21 GB/s, D2D:   0.42 GB/s
+Coalesced copy of global memory, size=      2048, gDim=  128, bDim=  128, bw=  0.66GB/s
+*** Allocating memory of following size=2048
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       2048B, H2D:   0.48 GB/s, D2H:   0.21 GB/s, D2D:   0.41 GB/s
+Coalesced copy of global memory, size=      2048, gDim=  256, bDim=  128, bw=  0.66GB/s
+*** Allocating memory of following size=2048
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       2048B, H2D:   0.52 GB/s, D2H:   0.21 GB/s, D2D:   0.42 GB/s
+Coalesced copy of global memory, size=      2048, gDim=  512, bDim=  128, bw=  0.66GB/s
+*** Allocating memory of following size=2048
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       2048B, H2D:   0.51 GB/s, D2H:   0.21 GB/s, D2D:   0.41 GB/s
+Coalesced copy of global memory, size=      2048, gDim= 1024, bDim=  128, bw=  0.67GB/s
+*** Allocating memory of following size=4096
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       4096B, H2D:   0.97 GB/s, D2H:   0.41 GB/s, D2D:   0.80 GB/s
+Coalesced copy of global memory, size=      4096, gDim=    1, bDim=  128, bw=  1.28GB/s
+*** Allocating memory of following size=4096
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       4096B, H2D:   0.98 GB/s, D2H:   0.41 GB/s, D2D:   0.80 GB/s
+Coalesced copy of global memory, size=      4096, gDim=    2, bDim=  128, bw=  1.35GB/s
+*** Allocating memory of following size=4096
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       4096B, H2D:   1.00 GB/s, D2H:   0.31 GB/s, D2D:   0.84 GB/s
+Coalesced copy of global memory, size=      4096, gDim=    4, bDim=  128, bw=  1.31GB/s
+*** Allocating memory of following size=4096
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       4096B, H2D:   1.02 GB/s, D2H:   0.41 GB/s, D2D:   0.83 GB/s
+Coalesced copy of global memory, size=      4096, gDim=    8, bDim=  128, bw=  1.32GB/s
+*** Allocating memory of following size=4096
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       4096B, H2D:   1.01 GB/s, D2H:   0.41 GB/s, D2D:   0.85 GB/s
+Coalesced copy of global memory, size=      4096, gDim=   16, bDim=  128, bw=  1.32GB/s
+*** Allocating memory of following size=4096
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       4096B, H2D:   1.00 GB/s, D2H:   0.42 GB/s, D2D:   0.79 GB/s
+Coalesced copy of global memory, size=      4096, gDim=   32, bDim=  128, bw=  1.32GB/s
+*** Allocating memory of following size=4096
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       4096B, H2D:   1.01 GB/s, D2H:   0.41 GB/s, D2D:   0.80 GB/s
+Coalesced copy of global memory, size=      4096, gDim=   64, bDim=  128, bw=  1.32GB/s
+*** Allocating memory of following size=4096
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       4096B, H2D:   1.03 GB/s, D2H:   0.42 GB/s, D2D:   0.85 GB/s
+Coalesced copy of global memory, size=      4096, gDim=  128, bDim=  128, bw=  1.32GB/s
+*** Allocating memory of following size=4096
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       4096B, H2D:   0.97 GB/s, D2H:   0.42 GB/s, D2D:   0.82 GB/s
+Coalesced copy of global memory, size=      4096, gDim=  256, bDim=  128, bw=  1.32GB/s
+*** Allocating memory of following size=4096
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       4096B, H2D:   1.02 GB/s, D2H:   0.42 GB/s, D2D:   0.84 GB/s
+Coalesced copy of global memory, size=      4096, gDim=  512, bDim=  128, bw=  1.32GB/s
+*** Allocating memory of following size=4096
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       4096B, H2D:   1.03 GB/s, D2H:   0.42 GB/s, D2D:   0.85 GB/s
+Coalesced copy of global memory, size=      4096, gDim= 1024, bDim=  128, bw=  1.34GB/s
+*** Allocating memory of following size=8192
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       8192B, H2D:   1.84 GB/s, D2H:   0.69 GB/s, D2D:   1.60 GB/s
+Coalesced copy of global memory, size=      8192, gDim=    1, bDim=  128, bw=  1.76GB/s
+*** Allocating memory of following size=8192
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       8192B, H2D:   1.93 GB/s, D2H:   0.78 GB/s, D2D:   1.65 GB/s
+Coalesced copy of global memory, size=      8192, gDim=    2, bDim=  128, bw=  2.47GB/s
+*** Allocating memory of following size=8192
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       8192B, H2D:   1.91 GB/s, D2H:   0.78 GB/s, D2D:   1.70 GB/s
+Coalesced copy of global memory, size=      8192, gDim=    4, bDim=  128, bw=  2.70GB/s
+*** Allocating memory of following size=8192
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       8192B, H2D:   1.96 GB/s, D2H:   0.77 GB/s, D2D:   1.71 GB/s
+Coalesced copy of global memory, size=      8192, gDim=    8, bDim=  128, bw=  2.63GB/s
+*** Allocating memory of following size=8192
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       8192B, H2D:   1.89 GB/s, D2H:   0.78 GB/s, D2D:   1.65 GB/s
+Coalesced copy of global memory, size=      8192, gDim=   16, bDim=  128, bw=  2.63GB/s
+*** Allocating memory of following size=8192
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       8192B, H2D:   1.96 GB/s, D2H:   0.78 GB/s, D2D:   1.69 GB/s
+Coalesced copy of global memory, size=      8192, gDim=   32, bDim=  128, bw=  2.64GB/s
+*** Allocating memory of following size=8192
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       8192B, H2D:   1.82 GB/s, D2H:   0.78 GB/s, D2D:   1.66 GB/s
+Coalesced copy of global memory, size=      8192, gDim=   64, bDim=  128, bw=  2.63GB/s
+*** Allocating memory of following size=8192
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       8192B, H2D:   1.41 GB/s, D2H:   0.77 GB/s, D2D:   1.10 GB/s
+Coalesced copy of global memory, size=      8192, gDim=  128, bDim=  128, bw=  2.64GB/s
+*** Allocating memory of following size=8192
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       8192B, H2D:   1.94 GB/s, D2H:   0.78 GB/s, D2D:   1.71 GB/s
+Coalesced copy of global memory, size=      8192, gDim=  256, bDim=  128, bw=  2.63GB/s
+*** Allocating memory of following size=8192
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       8192B, H2D:   1.92 GB/s, D2H:   0.78 GB/s, D2D:   1.68 GB/s
+Coalesced copy of global memory, size=      8192, gDim=  512, bDim=  128, bw=  2.62GB/s
+*** Allocating memory of following size=8192
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:       8192B, H2D:   1.90 GB/s, D2H:   0.75 GB/s, D2D:   1.60 GB/s
+Coalesced copy of global memory, size=      8192, gDim= 1024, bDim=  128, bw=  2.69GB/s
+*** Allocating memory of following size=16384
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      16384B, H2D:   3.26 GB/s, D2H:   1.14 GB/s, D2D:   3.24 GB/s
+Coalesced copy of global memory, size=     16384, gDim=    1, bDim=  128, bw=  2.14GB/s
+*** Allocating memory of following size=16384
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      16384B, H2D:   3.32 GB/s, D2H:   1.41 GB/s, D2D:   3.06 GB/s
+Coalesced copy of global memory, size=     16384, gDim=    2, bDim=  128, bw=  4.56GB/s
+*** Allocating memory of following size=16384
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      16384B, H2D:   3.38 GB/s, D2H:   1.38 GB/s, D2D:   3.28 GB/s
+Coalesced copy of global memory, size=     16384, gDim=    4, bDim=  128, bw=  5.26GB/s
+*** Allocating memory of following size=16384
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      16384B, H2D:   3.18 GB/s, D2H:   1.38 GB/s, D2D:   3.26 GB/s
+Coalesced copy of global memory, size=     16384, gDim=    8, bDim=  128, bw=  5.35GB/s
+*** Allocating memory of following size=16384
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      16384B, H2D:   3.35 GB/s, D2H:   1.43 GB/s, D2D:   3.39 GB/s
+Coalesced copy of global memory, size=     16384, gDim=   16, bDim=  128, bw=  5.38GB/s
+*** Allocating memory of following size=16384
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      16384B, H2D:   3.39 GB/s, D2H:   1.42 GB/s, D2D:   3.35 GB/s
+Coalesced copy of global memory, size=     16384, gDim=   32, bDim=  128, bw=  5.34GB/s
+*** Allocating memory of following size=16384
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      16384B, H2D:   3.12 GB/s, D2H:   1.47 GB/s, D2D:   3.22 GB/s
+Coalesced copy of global memory, size=     16384, gDim=   64, bDim=  128, bw=  5.38GB/s
+*** Allocating memory of following size=16384
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      16384B, H2D:   3.34 GB/s, D2H:   1.38 GB/s, D2D:   3.32 GB/s
+Coalesced copy of global memory, size=     16384, gDim=  128, bDim=  128, bw=  5.36GB/s
+*** Allocating memory of following size=16384
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      16384B, H2D:   3.34 GB/s, D2H:   1.44 GB/s, D2D:   3.30 GB/s
+Coalesced copy of global memory, size=     16384, gDim=  256, bDim=  128, bw=  5.38GB/s
+*** Allocating memory of following size=16384
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      16384B, H2D:   3.45 GB/s, D2H:   1.44 GB/s, D2D:   3.26 GB/s
+Coalesced copy of global memory, size=     16384, gDim=  512, bDim=  128, bw=  5.38GB/s
+*** Allocating memory of following size=16384
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      16384B, H2D:   3.40 GB/s, D2H:   1.42 GB/s, D2D:   3.33 GB/s
+Coalesced copy of global memory, size=     16384, gDim= 1024, bDim=  128, bw=  5.36GB/s
+*** Allocating memory of following size=32768
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      32768B, H2D:   5.52 GB/s, D2H:   1.36 GB/s, D2D:   6.48 GB/s
+Coalesced copy of global memory, size=     32768, gDim=    1, bDim=  128, bw=  3.37GB/s
+*** Allocating memory of following size=32768
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      32768B, H2D:   5.80 GB/s, D2H:   2.32 GB/s, D2D:   6.41 GB/s
+Coalesced copy of global memory, size=     32768, gDim=    2, bDim=  128, bw=  5.70GB/s
+*** Allocating memory of following size=32768
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      32768B, H2D:   4.70 GB/s, D2H:   2.40 GB/s, D2D:   6.69 GB/s
+Coalesced copy of global memory, size=     32768, gDim=    4, bDim=  128, bw=  9.34GB/s
+*** Allocating memory of following size=32768
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      32768B, H2D:   5.99 GB/s, D2H:   2.47 GB/s, D2D:   6.84 GB/s
+Coalesced copy of global memory, size=     32768, gDim=    8, bDim=  128, bw= 10.54GB/s
+*** Allocating memory of following size=32768
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      32768B, H2D:   5.94 GB/s, D2H:   2.43 GB/s, D2D:   6.75 GB/s
+Coalesced copy of global memory, size=     32768, gDim=   16, bDim=  128, bw= 10.71GB/s
+*** Allocating memory of following size=32768
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      32768B, H2D:   5.98 GB/s, D2H:   2.43 GB/s, D2D:   6.63 GB/s
+Coalesced copy of global memory, size=     32768, gDim=   32, bDim=  128, bw= 10.76GB/s
+*** Allocating memory of following size=32768
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      32768B, H2D:   5.94 GB/s, D2H:   2.35 GB/s, D2D:   6.71 GB/s
+Coalesced copy of global memory, size=     32768, gDim=   64, bDim=  128, bw= 10.80GB/s
+*** Allocating memory of following size=32768
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      32768B, H2D:   6.02 GB/s, D2H:   2.36 GB/s, D2D:   6.63 GB/s
+Coalesced copy of global memory, size=     32768, gDim=  128, bDim=  128, bw= 10.78GB/s
+*** Allocating memory of following size=32768
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      32768B, H2D:   6.09 GB/s, D2H:   2.43 GB/s, D2D:   6.61 GB/s
+Coalesced copy of global memory, size=     32768, gDim=  256, bDim=  128, bw= 10.75GB/s
+*** Allocating memory of following size=32768
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      32768B, H2D:   5.93 GB/s, D2H:   2.34 GB/s, D2D:   6.66 GB/s
+Coalesced copy of global memory, size=     32768, gDim=  512, bDim=  128, bw= 10.76GB/s
+*** Allocating memory of following size=32768
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      32768B, H2D:   5.72 GB/s, D2H:   2.35 GB/s, D2D:   6.57 GB/s
+Coalesced copy of global memory, size=     32768, gDim= 1024, bDim=  128, bw= 10.74GB/s
+*** Allocating memory of following size=65536
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      65536B, H2D:   9.06 GB/s, D2H:   2.12 GB/s, D2D:  13.00 GB/s
+Coalesced copy of global memory, size=     65536, gDim=    1, bDim=  128, bw=  3.62GB/s
+*** Allocating memory of following size=65536
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      65536B, H2D:   9.17 GB/s, D2H:   3.63 GB/s, D2D:  12.53 GB/s
+Coalesced copy of global memory, size=     65536, gDim=    2, bDim=  128, bw=  6.43GB/s
+*** Allocating memory of following size=65536
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      65536B, H2D:   7.78 GB/s, D2H:   3.60 GB/s, D2D:  12.29 GB/s
+Coalesced copy of global memory, size=     65536, gDim=    4, bDim=  128, bw= 11.39GB/s
+*** Allocating memory of following size=65536
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      65536B, H2D:   7.93 GB/s, D2H:   3.64 GB/s, D2D:  12.88 GB/s
+Coalesced copy of global memory, size=     65536, gDim=    8, bDim=  128, bw= 18.79GB/s
+*** Allocating memory of following size=65536
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      65536B, H2D:   9.19 GB/s, D2H:   3.66 GB/s, D2D:  12.90 GB/s
+Coalesced copy of global memory, size=     65536, gDim=   16, bDim=  128, bw= 21.00GB/s
+*** Allocating memory of following size=65536
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      65536B, H2D:   7.11 GB/s, D2H:   3.38 GB/s, D2D:  10.45 GB/s
+Coalesced copy of global memory, size=     65536, gDim=   32, bDim=  128, bw= 21.33GB/s
+*** Allocating memory of following size=65536
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      65536B, H2D:   8.92 GB/s, D2H:   3.58 GB/s, D2D:  12.53 GB/s
+Coalesced copy of global memory, size=     65536, gDim=   64, bDim=  128, bw= 21.46GB/s
+*** Allocating memory of following size=65536
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      65536B, H2D:   9.30 GB/s, D2H:   3.47 GB/s, D2D:  13.16 GB/s
+Coalesced copy of global memory, size=     65536, gDim=  128, bDim=  128, bw= 21.42GB/s
+*** Allocating memory of following size=65536
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      65536B, H2D:   9.30 GB/s, D2H:   3.64 GB/s, D2D:  12.85 GB/s
+Coalesced copy of global memory, size=     65536, gDim=  256, bDim=  128, bw= 21.46GB/s
+*** Allocating memory of following size=65536
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      65536B, H2D:   9.28 GB/s, D2H:   3.45 GB/s, D2D:  13.00 GB/s
+Coalesced copy of global memory, size=     65536, gDim=  512, bDim=  128, bw= 21.43GB/s
+*** Allocating memory of following size=65536
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:      65536B, H2D:   9.13 GB/s, D2H:   3.63 GB/s, D2D:  12.80 GB/s
+Coalesced copy of global memory, size=     65536, gDim= 1024, bDim=  128, bw= 21.36GB/s
+*** Allocating memory of following size=131072
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     131072B, H2D:  11.26 GB/s, D2H:   1.97 GB/s, D2D:  24.73 GB/s
+Coalesced copy of global memory, size=    131072, gDim=    1, bDim=  128, bw=  3.74GB/s
+*** Allocating memory of following size=131072
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     131072B, H2D:  11.76 GB/s, D2H:   3.00 GB/s, D2D:  23.45 GB/s
+Coalesced copy of global memory, size=    131072, gDim=    2, bDim=  128, bw=  6.88GB/s
+*** Allocating memory of following size=131072
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     131072B, H2D:  11.54 GB/s, D2H:   3.17 GB/s, D2D:  23.66 GB/s
+Coalesced copy of global memory, size=    131072, gDim=    4, bDim=  128, bw= 12.90GB/s
+*** Allocating memory of following size=131072
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     131072B, H2D:  11.72 GB/s, D2H:   3.02 GB/s, D2D:  22.59 GB/s
+Coalesced copy of global memory, size=    131072, gDim=    8, bDim=  128, bw= 23.16GB/s
+*** Allocating memory of following size=131072
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     131072B, H2D:  11.63 GB/s, D2H:   3.15 GB/s, D2D:  23.62 GB/s
+Coalesced copy of global memory, size=    131072, gDim=   16, bDim=  128, bw= 38.39GB/s
+*** Allocating memory of following size=131072
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     131072B, H2D:   4.85 GB/s, D2H:   3.68 GB/s, D2D:   8.93 GB/s
+Coalesced copy of global memory, size=    131072, gDim=   32, bDim=  128, bw= 23.92GB/s
+*** Allocating memory of following size=131072
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     131072B, H2D:   6.70 GB/s, D2H:   2.99 GB/s, D2D:  12.25 GB/s
+Coalesced copy of global memory, size=    131072, gDim=   64, bDim=  128, bw= 24.10GB/s
+*** Allocating memory of following size=131072
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     131072B, H2D:  11.69 GB/s, D2H:   3.23 GB/s, D2D:  24.59 GB/s
+Coalesced copy of global memory, size=    131072, gDim=  128, bDim=  128, bw= 43.12GB/s
+*** Allocating memory of following size=131072
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     131072B, H2D:  11.80 GB/s, D2H:   2.99 GB/s, D2D:  25.30 GB/s
+Coalesced copy of global memory, size=    131072, gDim=  256, bDim=  128, bw= 42.93GB/s
+*** Allocating memory of following size=131072
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     131072B, H2D:  11.89 GB/s, D2H:   3.01 GB/s, D2D:  25.95 GB/s
+Coalesced copy of global memory, size=    131072, gDim=  512, bDim=  128, bw= 42.80GB/s
+*** Allocating memory of following size=131072
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     131072B, H2D:  11.64 GB/s, D2H:   3.25 GB/s, D2D:  24.82 GB/s
+Coalesced copy of global memory, size=    131072, gDim= 1024, bDim=  128, bw= 42.89GB/s
+*** Allocating memory of following size=262144
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     262144B, H2D:  15.09 GB/s, D2H:   2.06 GB/s, D2D:  48.82 GB/s
+Coalesced copy of global memory, size=    262144, gDim=    1, bDim=  128, bw=  3.90GB/s
+*** Allocating memory of following size=262144
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     262144B, H2D:  13.27 GB/s, D2H:   3.86 GB/s, D2D:  36.15 GB/s
+Coalesced copy of global memory, size=    262144, gDim=    2, bDim=  128, bw=  7.31GB/s
+*** Allocating memory of following size=262144
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     262144B, H2D:  14.92 GB/s, D2H:   3.89 GB/s, D2D:  48.01 GB/s
+Coalesced copy of global memory, size=    262144, gDim=    4, bDim=  128, bw= 14.05GB/s
+*** Allocating memory of following size=262144
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     262144B, H2D:  14.89 GB/s, D2H:   3.78 GB/s, D2D:  48.27 GB/s
+Coalesced copy of global memory, size=    262144, gDim=    8, bDim=  128, bw= 26.43GB/s
+*** Allocating memory of following size=262144
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     262144B, H2D:  15.01 GB/s, D2H:   3.92 GB/s, D2D:  45.28 GB/s
+Coalesced copy of global memory, size=    262144, gDim=   16, bDim=  128, bw= 46.75GB/s
+*** Allocating memory of following size=262144
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     262144B, H2D:  12.76 GB/s, D2H:   3.80 GB/s, D2D:  37.34 GB/s
+Coalesced copy of global memory, size=    262144, gDim=   32, bDim=  128, bw= 76.68GB/s
+*** Allocating memory of following size=262144
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     262144B, H2D:  15.02 GB/s, D2H:   3.79 GB/s, D2D:  49.08 GB/s
+Coalesced copy of global memory, size=    262144, gDim=   64, bDim=  128, bw= 84.52GB/s
+*** Allocating memory of following size=262144
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     262144B, H2D:  15.03 GB/s, D2H:   3.49 GB/s, D2D:  50.03 GB/s
+Coalesced copy of global memory, size=    262144, gDim=  128, bDim=  128, bw= 85.93GB/s
+*** Allocating memory of following size=262144
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     262144B, H2D:  15.20 GB/s, D2H:   3.71 GB/s, D2D:  49.93 GB/s
+Coalesced copy of global memory, size=    262144, gDim=  256, bDim=  128, bw= 86.06GB/s
+*** Allocating memory of following size=262144
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     262144B, H2D:  12.76 GB/s, D2H:   3.92 GB/s, D2D:  37.72 GB/s
+Coalesced copy of global memory, size=    262144, gDim=  512, bDim=  128, bw= 86.43GB/s
+*** Allocating memory of following size=262144
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     262144B, H2D:  14.98 GB/s, D2H:   3.77 GB/s, D2D:  48.19 GB/s
+Coalesced copy of global memory, size=    262144, gDim= 1024, bDim=  128, bw= 86.35GB/s
+*** Allocating memory of following size=524288
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     524288B, H2D:  17.50 GB/s, D2H:   1.93 GB/s, D2D:  97.81 GB/s
+Coalesced copy of global memory, size=    524288, gDim=    1, bDim=  128, bw=  3.94GB/s
+*** Allocating memory of following size=524288
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     524288B, H2D:  16.08 GB/s, D2H:   3.96 GB/s, D2D:  68.62 GB/s
+Coalesced copy of global memory, size=    524288, gDim=    2, bDim=  128, bw=  7.43GB/s
+*** Allocating memory of following size=524288
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     524288B, H2D:  17.14 GB/s, D2H:   4.00 GB/s, D2D:  85.81 GB/s
+Coalesced copy of global memory, size=    524288, gDim=    4, bDim=  128, bw= 14.56GB/s
+*** Allocating memory of following size=524288
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     524288B, H2D:  15.98 GB/s, D2H:   4.17 GB/s, D2D:  66.79 GB/s
+Coalesced copy of global memory, size=    524288, gDim=    8, bDim=  128, bw= 28.10GB/s
+*** Allocating memory of following size=524288
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     524288B, H2D:  17.36 GB/s, D2H:   4.06 GB/s, D2D:  87.97 GB/s
+Coalesced copy of global memory, size=    524288, gDim=   16, bDim=  128, bw= 52.82GB/s
+*** Allocating memory of following size=524288
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     524288B, H2D:  16.30 GB/s, D2H:   3.96 GB/s, D2D:  79.32 GB/s
+Coalesced copy of global memory, size=    524288, gDim=   32, bDim=  128, bw= 93.25GB/s
+*** Allocating memory of following size=524288
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     524288B, H2D:  17.39 GB/s, D2H:   3.99 GB/s, D2D:  97.80 GB/s
+Coalesced copy of global memory, size=    524288, gDim=   64, bDim=  128, bw=148.91GB/s
+*** Allocating memory of following size=524288
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     524288B, H2D:  16.08 GB/s, D2H:   3.99 GB/s, D2D:  78.25 GB/s
+Coalesced copy of global memory, size=    524288, gDim=  128, bDim=  128, bw=170.58GB/s
+*** Allocating memory of following size=524288
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     524288B, H2D:  17.46 GB/s, D2H:   4.02 GB/s, D2D:  97.45 GB/s
+Coalesced copy of global memory, size=    524288, gDim=  256, bDim=  128, bw=168.19GB/s
+*** Allocating memory of following size=524288
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     524288B, H2D:  15.97 GB/s, D2H:   3.97 GB/s, D2D:  76.65 GB/s
+Coalesced copy of global memory, size=    524288, gDim=  512, bDim=  128, bw=171.96GB/s
+*** Allocating memory of following size=524288
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:     524288B, H2D:  17.49 GB/s, D2H:   4.03 GB/s, D2D: 101.41 GB/s
+Coalesced copy of global memory, size=    524288, gDim= 1024, bDim=  128, bw=168.31GB/s
+*** Allocating memory of following size=1048576
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    1048576B, H2D:  18.06 GB/s, D2H:   1.94 GB/s, D2D: 146.24 GB/s
+Coalesced copy of global memory, size=   1048576, gDim=    1, bDim=  128, bw=  3.96GB/s
+*** Allocating memory of following size=1048576
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    1048576B, H2D:  17.98 GB/s, D2H:   4.43 GB/s, D2D: 133.73 GB/s
+Coalesced copy of global memory, size=   1048576, gDim=    2, bDim=  128, bw=  7.50GB/s
+*** Allocating memory of following size=1048576
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    1048576B, H2D:  18.18 GB/s, D2H:   4.23 GB/s, D2D: 141.87 GB/s
+Coalesced copy of global memory, size=   1048576, gDim=    4, bDim=  128, bw= 14.83GB/s
+*** Allocating memory of following size=1048576
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    1048576B, H2D:  18.40 GB/s, D2H:   4.24 GB/s, D2D: 146.86 GB/s
+Coalesced copy of global memory, size=   1048576, gDim=    8, bDim=  128, bw= 29.06GB/s
+*** Allocating memory of following size=1048576
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    1048576B, H2D:  16.73 GB/s, D2H:   4.30 GB/s, D2D: 153.53 GB/s
+Coalesced copy of global memory, size=   1048576, gDim=   16, bDim=  128, bw= 55.89GB/s
+*** Allocating memory of following size=1048576
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    1048576B, H2D:  18.33 GB/s, D2H:   4.25 GB/s, D2D: 156.04 GB/s
+Coalesced copy of global memory, size=   1048576, gDim=   32, bDim=  128, bw=105.60GB/s
+*** Allocating memory of following size=1048576
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    1048576B, H2D:  18.19 GB/s, D2H:   4.21 GB/s, D2D: 150.42 GB/s
+Coalesced copy of global memory, size=   1048576, gDim=   64, bDim=  128, bw=181.52GB/s
+*** Allocating memory of following size=1048576
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    1048576B, H2D:  18.32 GB/s, D2H:   4.15 GB/s, D2D: 153.50 GB/s
+Coalesced copy of global memory, size=   1048576, gDim=  128, bDim=  128, bw=276.02GB/s
+*** Allocating memory of following size=1048576
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    1048576B, H2D:  18.54 GB/s, D2H:   4.12 GB/s, D2D: 164.61 GB/s
+Coalesced copy of global memory, size=   1048576, gDim=  256, bDim=  128, bw=341.82GB/s
+*** Allocating memory of following size=1048576
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    1048576B, H2D:  18.49 GB/s, D2H:   4.16 GB/s, D2D: 158.63 GB/s
+Coalesced copy of global memory, size=   1048576, gDim=  512, bDim=  128, bw=335.40GB/s
+*** Allocating memory of following size=1048576
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    1048576B, H2D:  18.55 GB/s, D2H:   4.10 GB/s, D2D: 165.91 GB/s
+Coalesced copy of global memory, size=   1048576, gDim= 1024, bDim=  128, bw=352.35GB/s
+*** Allocating memory of following size=2097152
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    2097152B, H2D:  18.99 GB/s, D2H:   2.40 GB/s, D2D: 303.94 GB/s
+Coalesced copy of global memory, size=   2097152, gDim=    1, bDim=  128, bw=  3.97GB/s
+*** Allocating memory of following size=2097152
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    2097152B, H2D:  18.82 GB/s, D2H:   5.95 GB/s, D2D: 257.64 GB/s
+Coalesced copy of global memory, size=   2097152, gDim=    2, bDim=  128, bw=  7.53GB/s
+*** Allocating memory of following size=2097152
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    2097152B, H2D:  18.73 GB/s, D2H:   6.01 GB/s, D2D: 271.65 GB/s
+Coalesced copy of global memory, size=   2097152, gDim=    4, bDim=  128, bw= 14.97GB/s
+*** Allocating memory of following size=2097152
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    2097152B, H2D:  19.01 GB/s, D2H:   5.93 GB/s, D2D: 277.40 GB/s
+Coalesced copy of global memory, size=   2097152, gDim=    8, bDim=  128, bw= 29.65GB/s
+*** Allocating memory of following size=2097152
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    2097152B, H2D:  18.58 GB/s, D2H:   5.86 GB/s, D2D: 278.88 GB/s
+Coalesced copy of global memory, size=   2097152, gDim=   16, bDim=  128, bw= 58.43GB/s
+*** Allocating memory of following size=2097152
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    2097152B, H2D:  18.84 GB/s, D2H:   5.86 GB/s, D2D: 288.47 GB/s
+Coalesced copy of global memory, size=   2097152, gDim=   32, bDim=  128, bw=112.43GB/s
+*** Allocating memory of following size=2097152
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    2097152B, H2D:  18.79 GB/s, D2H:   5.87 GB/s, D2D: 288.47 GB/s
+Coalesced copy of global memory, size=   2097152, gDim=   64, bDim=  128, bw=205.56GB/s
+*** Allocating memory of following size=2097152
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    2097152B, H2D:  18.78 GB/s, D2H:   5.90 GB/s, D2D: 284.55 GB/s
+Coalesced copy of global memory, size=   2097152, gDim=  128, bDim=  128, bw=342.84GB/s
+*** Allocating memory of following size=2097152
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    2097152B, H2D:  18.84 GB/s, D2H:   5.90 GB/s, D2D: 302.18 GB/s
+Coalesced copy of global memory, size=   2097152, gDim=  256, bDim=  128, bw=520.64GB/s
+*** Allocating memory of following size=2097152
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    2097152B, H2D:  18.93 GB/s, D2H:   5.73 GB/s, D2D: 300.02 GB/s
+Coalesced copy of global memory, size=   2097152, gDim=  512, bDim=  128, bw=690.21GB/s
+*** Allocating memory of following size=2097152
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    2097152B, H2D:  18.86 GB/s, D2H:   5.85 GB/s, D2D: 322.64 GB/s
+Coalesced copy of global memory, size=   2097152, gDim= 1024, bDim=  128, bw=649.51GB/s
+*** Allocating memory of following size=4194304
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    4194304B, H2D:  14.87 GB/s, D2H:   3.47 GB/s, D2D: 634.54 GB/s
+Coalesced copy of global memory, size=   4194304, gDim=    1, bDim=  128, bw=  2.00GB/s
+*** Allocating memory of following size=4194304
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    4194304B, H2D:  14.71 GB/s, D2H:   7.93 GB/s, D2D: 475.49 GB/s
+Coalesced copy of global memory, size=   4194304, gDim=    2, bDim=  128, bw=  3.88GB/s
+*** Allocating memory of following size=4194304
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    4194304B, H2D:  14.69 GB/s, D2H:   7.89 GB/s, D2D: 504.12 GB/s
+Coalesced copy of global memory, size=   4194304, gDim=    4, bDim=  128, bw=  7.73GB/s
+*** Allocating memory of following size=4194304
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    4194304B, H2D:  14.74 GB/s, D2H:   7.97 GB/s, D2D: 517.18 GB/s
+Coalesced copy of global memory, size=   4194304, gDim=    8, bDim=  128, bw= 15.14GB/s
+*** Allocating memory of following size=4194304
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    4194304B, H2D:  14.73 GB/s, D2H:   8.01 GB/s, D2D: 524.29 GB/s
+Coalesced copy of global memory, size=   4194304, gDim=   16, bDim=  128, bw= 29.32GB/s
+*** Allocating memory of following size=4194304
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    4194304B, H2D:  14.76 GB/s, D2H:   7.98 GB/s, D2D: 518.46 GB/s
+Coalesced copy of global memory, size=   4194304, gDim=   32, bDim=  128, bw= 53.93GB/s
+*** Allocating memory of following size=4194304
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    4194304B, H2D:  14.79 GB/s, D2H:   7.93 GB/s, D2D: 576.14 GB/s
+Coalesced copy of global memory, size=   4194304, gDim=   64, bDim=  128, bw= 93.01GB/s
+*** Allocating memory of following size=4194304
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    4194304B, H2D:  14.78 GB/s, D2H:   7.92 GB/s, D2D: 569.11 GB/s
+Coalesced copy of global memory, size=   4194304, gDim=  128, bDim=  128, bw=156.11GB/s
+*** Allocating memory of following size=4194304
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    4194304B, H2D:  14.32 GB/s, D2H:   7.53 GB/s, D2D: 540.50 GB/s
+Coalesced copy of global memory, size=   4194304, gDim=  256, bDim=  128, bw=222.81GB/s
+*** Allocating memory of following size=4194304
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    4194304B, H2D:  14.70 GB/s, D2H:   8.02 GB/s, D2D: 554.07 GB/s
+Coalesced copy of global memory, size=   4194304, gDim=  512, bDim=  128, bw=233.48GB/s
+*** Allocating memory of following size=4194304
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    4194304B, H2D:  14.77 GB/s, D2H:   8.02 GB/s, D2D: 584.08 GB/s
+Coalesced copy of global memory, size=   4194304, gDim= 1024, bDim=  128, bw=235.14GB/s
+*** Allocating memory of following size=8388608
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    8388608B, H2D:  13.37 GB/s, D2H:   4.38 GB/s, D2D: 1118.48 GB/s
+Coalesced copy of global memory, size=   8388608, gDim=    1, bDim=  128, bw=  2.00GB/s
+*** Allocating memory of following size=8388608
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    8388608B, H2D:  13.11 GB/s, D2H:   9.89 GB/s, D2D: 851.64 GB/s
+Coalesced copy of global memory, size=   8388608, gDim=    2, bDim=  128, bw=  3.88GB/s
+*** Allocating memory of following size=8388608
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    8388608B, H2D:  12.72 GB/s, D2H:   9.47 GB/s, D2D: 402.14 GB/s
+Coalesced copy of global memory, size=   8388608, gDim=    4, bDim=  128, bw=  7.70GB/s
+*** Allocating memory of following size=8388608
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    8388608B, H2D:  13.36 GB/s, D2H:   9.81 GB/s, D2D: 925.89 GB/s
+Coalesced copy of global memory, size=   8388608, gDim=    8, bDim=  128, bw= 15.14GB/s
+*** Allocating memory of following size=8388608
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    8388608B, H2D:  13.44 GB/s, D2H:   9.70 GB/s, D2D: 1055.04 GB/s
+Coalesced copy of global memory, size=   8388608, gDim=   16, bDim=  128, bw= 29.52GB/s
+*** Allocating memory of following size=8388608
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    8388608B, H2D:  13.37 GB/s, D2H:   9.78 GB/s, D2D: 1039.48 GB/s
+Coalesced copy of global memory, size=   8388608, gDim=   32, bDim=  128, bw= 54.63GB/s
+*** Allocating memory of following size=8388608
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    8388608B, H2D:  13.41 GB/s, D2H:   9.69 GB/s, D2D: 1045.96 GB/s
+Coalesced copy of global memory, size=   8388608, gDim=   64, bDim=  128, bw= 96.14GB/s
+*** Allocating memory of following size=8388608
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    8388608B, H2D:  13.42 GB/s, D2H:   9.76 GB/s, D2D: 1072.71 GB/s
+Coalesced copy of global memory, size=   8388608, gDim=  128, bDim=  128, bw=161.88GB/s
+*** Allocating memory of following size=8388608
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    8388608B, H2D:  13.21 GB/s, D2H:   9.93 GB/s, D2D: 1011.89 GB/s
+Coalesced copy of global memory, size=   8388608, gDim=  256, bDim=  128, bw=231.09GB/s
+*** Allocating memory of following size=8388608
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    8388608B, H2D:  13.42 GB/s, D2H:   9.76 GB/s, D2D: 1103.76 GB/s
+Coalesced copy of global memory, size=   8388608, gDim=  512, bDim=  128, bw=245.98GB/s
+*** Allocating memory of following size=8388608
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:    8388608B, H2D:  13.44 GB/s, D2H:   9.77 GB/s, D2D: 1144.42 GB/s
+Coalesced copy of global memory, size=   8388608, gDim= 1024, bDim=  128, bw=247.86GB/s
+*** Allocating memory of following size=16777216
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   16777216B, H2D:  12.32 GB/s, D2H:   5.36 GB/s, D2D: 849.05 GB/s
+Coalesced copy of global memory, size=  16777216, gDim=    1, bDim=  128, bw=  1.99GB/s
+*** Allocating memory of following size=16777216
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   16777216B, H2D:  11.97 GB/s, D2H:  10.96 GB/s, D2D: 883.01 GB/s
+Coalesced copy of global memory, size=  16777216, gDim=    2, bDim=  128, bw=  3.87GB/s
+*** Allocating memory of following size=16777216
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   16777216B, H2D:  12.40 GB/s, D2H:  11.04 GB/s, D2D: 941.43 GB/s
+Coalesced copy of global memory, size=  16777216, gDim=    4, bDim=  128, bw=  7.69GB/s
+*** Allocating memory of following size=16777216
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   16777216B, H2D:  12.05 GB/s, D2H:  11.09 GB/s, D2D: 1028.02 GB/s
+Coalesced copy of global memory, size=  16777216, gDim=    8, bDim=  128, bw= 15.21GB/s
+*** Allocating memory of following size=16777216
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   16777216B, H2D:  12.22 GB/s, D2H:  11.04 GB/s, D2D: 1017.42 GB/s
+Coalesced copy of global memory, size=  16777216, gDim=   16, bDim=  128, bw= 29.56GB/s
+*** Allocating memory of following size=16777216
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   16777216B, H2D:  12.17 GB/s, D2H:  11.05 GB/s, D2D: 1062.52 GB/s
+Coalesced copy of global memory, size=  16777216, gDim=   32, bDim=  128, bw= 54.73GB/s
+*** Allocating memory of following size=16777216
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   16777216B, H2D:  12.39 GB/s, D2H:  11.06 GB/s, D2D: 1036.27 GB/s
+Coalesced copy of global memory, size=  16777216, gDim=   64, bDim=  128, bw= 97.87GB/s
+*** Allocating memory of following size=16777216
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   16777216B, H2D:  12.38 GB/s, D2H:  11.03 GB/s, D2D: 1059.17 GB/s
+Coalesced copy of global memory, size=  16777216, gDim=  128, bDim=  128, bw=166.05GB/s
+*** Allocating memory of following size=16777216
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   16777216B, H2D:  12.41 GB/s, D2H:  11.01 GB/s, D2D: 1102.31 GB/s
+Coalesced copy of global memory, size=  16777216, gDim=  256, bDim=  128, bw=234.18GB/s
+*** Allocating memory of following size=16777216
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   16777216B, H2D:  12.41 GB/s, D2H:  10.98 GB/s, D2D: 1067.25 GB/s
+Coalesced copy of global memory, size=  16777216, gDim=  512, bDim=  128, bw=252.99GB/s
+*** Allocating memory of following size=16777216
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   16777216B, H2D:  12.19 GB/s, D2H:  11.02 GB/s, D2D: 1069.98 GB/s
+Coalesced copy of global memory, size=  16777216, gDim= 1024, bDim=  128, bw=254.32GB/s
+*** Allocating memory of following size=33554432
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   33554432B, H2D:  11.15 GB/s, D2H:   4.98 GB/s, D2D: 1599.28 GB/s
+Coalesced copy of global memory, size=  33554432, gDim=    1, bDim=  128, bw=  1.99GB/s
+*** Allocating memory of following size=33554432
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   33554432B, H2D:  11.08 GB/s, D2H:   5.05 GB/s, D2D: 1501.99 GB/s
+Coalesced copy of global memory, size=  33554432, gDim=    2, bDim=  128, bw=  3.87GB/s
+*** Allocating memory of following size=33554432
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   33554432B, H2D:  11.24 GB/s, D2H:   5.04 GB/s, D2D: 1510.10 GB/s
+Coalesced copy of global memory, size=  33554432, gDim=    4, bDim=  128, bw=  7.68GB/s
+*** Allocating memory of following size=33554432
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   33554432B, H2D:  11.19 GB/s, D2H:   5.06 GB/s, D2D: 1448.12 GB/s
+Coalesced copy of global memory, size=  33554432, gDim=    8, bDim=  128, bw= 15.16GB/s
+*** Allocating memory of following size=33554432
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   33554432B, H2D:  11.24 GB/s, D2H:   5.06 GB/s, D2D: 1493.96 GB/s
+Coalesced copy of global memory, size=  33554432, gDim=   16, bDim=  128, bw= 29.45GB/s
+*** Allocating memory of following size=33554432
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   33554432B, H2D:  11.03 GB/s, D2H:   5.05 GB/s, D2D: 1514.12 GB/s
+Coalesced copy of global memory, size=  33554432, gDim=   32, bDim=  128, bw= 54.59GB/s
+*** Allocating memory of following size=33554432
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   33554432B, H2D:  11.22 GB/s, D2H:   5.01 GB/s, D2D: 1522.36 GB/s
+Coalesced copy of global memory, size=  33554432, gDim=   64, bDim=  128, bw= 98.08GB/s
+*** Allocating memory of following size=33554432
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   33554432B, H2D:  11.07 GB/s, D2H:   5.09 GB/s, D2D: 1501.25 GB/s
+Coalesced copy of global memory, size=  33554432, gDim=  128, bDim=  128, bw=165.69GB/s
+*** Allocating memory of following size=33554432
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   33554432B, H2D:  11.19 GB/s, D2H:   5.05 GB/s, D2D: 1512.82 GB/s
+Coalesced copy of global memory, size=  33554432, gDim=  256, bDim=  128, bw=230.32GB/s
+*** Allocating memory of following size=33554432
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   33554432B, H2D:  11.03 GB/s, D2H:   5.05 GB/s, D2D: 1535.60 GB/s
+Coalesced copy of global memory, size=  33554432, gDim=  512, bDim=  128, bw=250.46GB/s
+*** Allocating memory of following size=33554432
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   33554432B, H2D:  11.09 GB/s, D2H:   5.06 GB/s, D2D: 1542.73 GB/s
+Coalesced copy of global memory, size=  33554432, gDim= 1024, bDim=  128, bw=243.96GB/s
+*** Allocating memory of following size=67108864
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   67108864B, H2D:  11.46 GB/s, D2H:   5.56 GB/s, D2D: 2893.87 GB/s
+Coalesced copy of global memory, size=  67108864, gDim=    1, bDim=  128, bw=  1.98GB/s
+*** Allocating memory of following size=67108864
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   67108864B, H2D:  11.47 GB/s, D2H:   5.58 GB/s, D2D: 3003.98 GB/s
+Coalesced copy of global memory, size=  67108864, gDim=    2, bDim=  128, bw=  3.76GB/s
+*** Allocating memory of following size=67108864
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   67108864B, H2D:  10.86 GB/s, D2H:   4.53 GB/s, D2D: 1963.34 GB/s
+Coalesced copy of global memory, size=  67108864, gDim=    4, bDim=  128, bw=  7.65GB/s
+*** Allocating memory of following size=67108864
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   67108864B, H2D:  11.98 GB/s, D2H:   5.52 GB/s, D2D: 2867.78 GB/s
+Coalesced copy of global memory, size=  67108864, gDim=    8, bDim=  128, bw= 15.09GB/s
+*** Allocating memory of following size=67108864
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   67108864B, H2D:  11.92 GB/s, D2H:   5.54 GB/s, D2D: 2831.60 GB/s
+Coalesced copy of global memory, size=  67108864, gDim=   16, bDim=  128, bw= 29.33GB/s
+*** Allocating memory of following size=67108864
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   67108864B, H2D:  11.31 GB/s, D2H:   5.48 GB/s, D2D: 2805.44 GB/s
+Coalesced copy of global memory, size=  67108864, gDim=   32, bDim=  128, bw= 54.63GB/s
+*** Allocating memory of following size=67108864
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   67108864B, H2D:  11.94 GB/s, D2H:   5.53 GB/s, D2D: 2841.07 GB/s
+Coalesced copy of global memory, size=  67108864, gDim=   64, bDim=  128, bw= 98.46GB/s
+*** Allocating memory of following size=67108864
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   67108864B, H2D:  11.42 GB/s, D2H:   5.57 GB/s, D2D: 3075.57 GB/s
+Coalesced copy of global memory, size=  67108864, gDim=  128, bDim=  128, bw=164.38GB/s
+*** Allocating memory of following size=67108864
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   67108864B, H2D:  11.92 GB/s, D2H:   5.57 GB/s, D2D: 2935.65 GB/s
+Coalesced copy of global memory, size=  67108864, gDim=  256, bDim=  128, bw=219.58GB/s
+*** Allocating memory of following size=67108864
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   67108864B, H2D:  11.90 GB/s, D2H:   5.50 GB/s, D2D: 3037.97 GB/s
+Coalesced copy of global memory, size=  67108864, gDim=  512, bDim=  128, bw=224.91GB/s
+*** Allocating memory of following size=67108864
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:   67108864B, H2D:  11.35 GB/s, D2H:   5.54 GB/s, D2D: 2931.80 GB/s
+Coalesced copy of global memory, size=  67108864, gDim= 1024, bDim=  128, bw=220.18GB/s
+*** Allocating memory of following size=134217728
+*** Using pageable memory
+***DeviveToDevice MemCpy:
+Starting Kernel to copy: 
+Kernel finished copying 
+*** Freeing pageable memory
+No errors occured 
+Results for cudaMemcpy:
+Size:  134217728B, H2D:  12.11 GB/s, D2H:   5.46 GB/s, D2D: 5471.57 GB/s
+Coalesced copy of global memory, size= 134217728, gDim=    1, bDim=  128, bw=  1.98GB/s
+*** Allocating memory of following size=134217728
+*** Using pageable memory
+slurmstepd-gpu09: error: *** JOB 1712 ON gpu09 CANCELLED AT 2020-11-21T12:33:18 ***
