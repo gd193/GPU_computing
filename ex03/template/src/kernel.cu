@@ -31,27 +31,26 @@ globalMemCoalescedKernel_Wrapper(dim3 gridDim, dim3 blockDim, int bytes, int *x,
 }
 
 __global__ void 
-globalMemStrideKernel()//int bytes, int *x, int *y)
+globalMemStrideKernel(int bytes, int *x, int *y, int stride)
 {
-    //unsigned int tid = blockIdx.x*blockDim.x + threadIdx.x;
-    //int count = bytes / (blockDim.x * gridDim.x);
-    
-
+  unsigned int i = (blockIdx.x * blockDim.x + threadIdx.x) * stride;
+  if ( i < bytes/sizeof(int)) y[i] = x[i];
 }
 
 void 
-globalMemStrideKernel_Wrapper(dim3 gridDim, dim3 blockDim /*TODO Parameters*/) {
-	globalMemStrideKernel<<< gridDim, blockDim, 0 /*Shared Memory Size*/ >>>( /*TODO Parameters*/);
+globalMemStrideKernel_Wrapper(dim3 gridDim, dim3 blockDim, int bytes, int *x, int *y, int stride) {
+	globalMemStrideKernel<<< gridDim, blockDim, 0 /*Shared Memory Size*/ >>>(bytes, x, y, stride);
 }
 
 __global__ void 
-globalMemOffsetKernel(/*TODO Parameters*/)
+globalMemOffsetKernel(int bytes, int *x, int *y, int offset)
 {
-    /*TODO Kernel Code*/
+    unsigned int i = (blockId.x * blockDim.x + threadIdx.x) + offset;
+    if ( i < bytes/sizeof(int)) y[i] = x[i];
 }
 
 void 
-globalMemOffsetKernel_Wrapper(dim3 gridDim, dim3 blockDim /*TODO Parameters*/) {
-	globalMemOffsetKernel<<< gridDim, blockDim, 0 /*Shared Memory Size*/ >>>( /*TODO Parameters*/);
+globalMemOffsetKernel_Wrapper(dim3 gridDim, dim3 blockDim, int bytes, int *x, int *y, int offset) {
+	globalMemOffsetKernel<<< gridDim, blockDim, 0 /*Shared Memory Size*/ >>>(bytes, x, y, offset);
 }
 

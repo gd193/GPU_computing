@@ -35,8 +35,8 @@ void printHelp(char *);
 
 
 extern void globalMemCoalescedKernel_Wrapper(dim3 gridDim, dim3 blockDim, int bytes, int *x, int *y);
-extern void globalMemStrideKernel_Wrapper(dim3 gridDim, dim3 blockDim /*TODO Parameters*/);
-extern void globalMemOffsetKernel_Wrapper(dim3 gridDim, dim3 blockDim /*TODO Parameters*/);
+extern void globalMemStrideKernel_Wrapper(dim3 gridDim, dim3 blockDim, int bytes, int *x, int *y, stride);
+extern void globalMemOffsetKernel_Wrapper(dim3 gridDim, dim3 blockDim, int bytes, int *x, int *y, offset);
 
 //
 // Main
