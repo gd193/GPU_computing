@@ -229,9 +229,9 @@ main ( int argc, char * argv[] )
                     
                     globalMemCoalescedKernel_Wrapper(grid_dim, block_dim, optMemorySize, d_memoryA, d_memoryB);
                 } else if ( chCommandLineGetBool ( "global-stride", argc, argv ) ) {
-                    globalMemStrideKernel_Wrapper(grid_dim, block_dim /*TODO Parameters*/);
+                    globalMemStrideKernel_Wrapper(grid_dim, block_dim, optMemorySize, d_memoryA, d_memoryB, optStride);
                 } else if ( chCommandLineGetBool ( "global-offset", argc, argv ) ) {
-                    globalMemOffsetKernel_Wrapper(grid_dim, block_dim /*TODO Parameters*/);
+                    globalMemOffsetKernel_Wrapper(grid_dim, block_dim, optMemorySize, d_memoryA, d_memoryB, optOffset);
                 } else {
                     break;
                 }
